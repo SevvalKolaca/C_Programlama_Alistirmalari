@@ -1,0 +1,60 @@
+SORU_1
+
+- 21 kişilik bir sınıftaki öğrencilerin bir dersten aldıkları vize notlarının tek tek ekrandan
+girilmesini ve bu notların harf karşılığının sıralı birşekilde ekrana yazılmasınısağlayan programa
+ait algoritmayı yazınız. (Harf aralıklarını kendiniz belirleyiniz. AA:70-100, BA:50-69 gibi.)
+
+----------------------------------------------------------------------------------------------------
+
+SORU_2
+
+Kullanıcıdan ekrana 7 adet tam sayı girmesini isteyen ve bu sayıların her birinin, bu sayıların
+toplamının % kaçına karşılık geldiğini bulup ekrana yazdıran bir C kodu yazınız. Yüzdelik
+değerleri virgülden sonra 2 basamak içerecek şekilde tutunuz ve bulduğunuz değerin
+toplamının 100 sayısını verip vermediğini, vermiyorsa % kaç hata yapıldığını ekrana yazdırınız.
+
+----------------------------------------------------------------------------------------------------
+
+SORU_3
+
+Kullanıcıdan 3 sayı girmesini ve yaptırmak istediği matematiksel işlemin işaretini girmesini
+isteyiniz ve istenen işlem sonucunu ekrana yazdırınız (If-Else yapısıyla). 
+
+>>>>>Örnek ekran çıktısı<<<<<
+Birinci sayiyi giriniz: 12
+İkinci sayiyi giriniz: 6
+Ucuncu sayiyi giriniz: 2
+Yapilacak işlemi seciniz (+, -, *, /): /
+Islem Sonucunuz: 12/6/2=1
+
+----------------------------------------------------------------------------------------------------
+
+SORU_4 
+
+Switch-case yapısıyla kullanıcının girdiği harflere göre 5 takımın ismini ekrana yazdıran bir C
+kodu yazınız. 
+
+>>>>>Örnek ekran çıktısı<<<<<
+b,B=>Barcelona; m,M=>Manchester; g,G=>Galatasaray; k,K=>Konyaspor; f,F=>Fenerbahce
+
+----------------------------------------------------------------------------------------------------
+
+SORU_5
+
+1’den başlayıp kullanıcının girdiği sayıya kadar olan sayılar içinde 3’e VEYA 13’e tam
+bölünebilen sayıları bulan ve ekranda gösteren C kodu yazınız.
+
+----------------------------------------------------------------------------------------------------
+
+SORU_6
+
+Dışardan çift sayı girildikçe toplama işlemi yapan ve sonucu ekrana yazan, tek sayı girildiği
+durumda ise çarpma işlemi yapıp ekranda sonucu gösteren bir C kodu yazınız.
+
+----------------------------------------------------------------------------------------------------
+
+SORU_7
+
+“Mükemmel” sayılar, bölenlerinin toplamı kendine eşit olan sayılardır. Örneğin 6 sayısı bir
+mükemmel sayıdır. 6 sayısının bölenleri: 1, 2 ve 3’tür ve 1+2+3=6’ dır. Buna göre 1 ile 100
+arasındaki mükemmel sayıları bulan ve ekrana yazan bir C kodu yazınız. 
